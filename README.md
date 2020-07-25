@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**lpenz/lpenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lately, I've been mostly playing around with [rust](https://www.rust-lang.org/)
+(sometimes on [codingame](https://www.codingame.com/profile/cd9d7ccda20b7747ef8db50b1ea54f69188409)),
+[nix](https://nixos.org/) and [github actions](https://github.com/features/actions).
 
-Here are some ideas to get you started:
+Sometimes I leave notes on my old-school home page at
+http://www.lpenz.org/ ([repository](https://github.com/lpenz/lpenz.github.io)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some other links:
+- [CV](http://cv.lpenz.org/) ([repository](https://github.com/lpenz/cv))
+- [@lpenz](https://twitter.com/lpenz)
+- [linkedin/in/lpenz](https://www.linkedin.com/in/lpenz)
+
