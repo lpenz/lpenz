@@ -17,9 +17,9 @@ http://www.lpenz.org/ ([repository](https://github.com/lpenz/lpenz.github.io)).
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
-[rust]: https://www.rust-lang.org/
+[rust]: https://github.com/search?q=user%3Alpenz+topic%3Arust
 [nix]: https://nixos.org/
-[ghactions]: https://github.com/features/actions
+[ghactions]: https://github.com/search?q=user%3Alpenz+topic%3Agithub-actions
 [homepage]: http://www.lpenz.org
 [codingame]: https://www.codingame.com/profile/cd9d7ccda20b7747ef8db50b1ea54f69188409
 [twitter]: https://www.twitter.com/lpenz
