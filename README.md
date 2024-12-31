@@ -7,7 +7,7 @@ Lately, I've been mostly playing around with [rust][rust]
 Sometimes I leave notes on my old-school home page at
 http://www.lpenz.org/ ([repository](https://github.com/lpenz/lpenz.github.io)).
 
-![AoC](https://img.shields.io/badge/AoC%20%E2%AD%90-200-yellow)
+![AoC](https://img.shields.io/badge/AoC%20%E2%AD%90-250-yellow)
 ![GitHub stars](https://img.shields.io/github/stars/lpenz?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/lpenz?style=social)
 
